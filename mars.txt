@@ -3,3 +3,5 @@ The two moons may be a problem for Wolfman.
 Mars is a beautiful place, potentially with some problems.
 The Mummy will appreciate the lack of humidity.
 Line added to file from GitHub interface.
+
+This line added by [Insufficient space].
